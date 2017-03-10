@@ -1,0 +1,44 @@
+ div{font-family:Tahoma; font-size:11px;  color:#9C8E6D; }
+.div{font-family:Tahoma; font-size:11px;  color:#737373; }
+.a_broun{font-family:Tahoma; font-size:11px;  color:#8D7A50; }
+.a_broun_l{font-family:Tahoma; font-size:11px;  color:#9C8E6D; }
+.a_broun_b{font-family:Tahoma; font-size:11px;  color:#8D7A50; font-weight:900; text-decoration:none }
+.a_copyright{font-family:Tahoma; font-size:11px;  color:#AEA287;  text-decoration:none }
+.dark{font-family:Tahoma; font-size:11px;  color:#837551; font-weight:900 }
+.dark1{font-family:Tahoma; font-size:11px;  color:#7B7055; font-weight:900 }
+.gold{font-family:Tahoma; font-size:11px;  color:#9D8349; font-weight:900 }
+.menu{font-family:Tahoma; font-size:11px;  color:#FCF1D8; font-weight:900; text-decoration:none }
+.normaltext {
+	font-family: Tahoma;
+	font-size: 12px;
+	text-align: justify;
+	color:#9D8349;
+}
+.heading {
+	font-family: Tahoma;
+	font-size: 16px;
+	font-weight: bold;
+	color:#9D8349;
+}
+.dotborder {
+	border-left: 1px;
+	border-style: dotted;
+	border-color:#9D8349;
+	border-right: 0px;
+	border-top: 0px;
+	border-bottom: 0px;
+}
+li {
+margin: 0px;
+padding: 0px;
+}
+.big_gold {
+font-family:Tahoma; font-size:13px;  color:#9D8349; font-weight:900 
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
